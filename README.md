@@ -47,10 +47,13 @@ Sou um QA focado em garantir que produtos digitais entreguem valor com qualidade
 🎵 **O que estou ouvindo agora**
 
 <div align="center">
-  <a href="https://open.spotify.com/user/gustavo15gargalac-br">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gustavo15gargalac-br" alt="Spotify Recently Played" />
+  <a href="https://www.linkedin.com/in/gustavorodriguesgargalac/" target="_blank">
+    <button style="font-size: 18px; padding: 12px 30px; background-color: #0077B5; color: white; border: none; border-radius: 6px; cursor: pointer;">
+      👉 Conecte-se comigo no LinkedIn
+    </button>
   </a>
 </div>
+
 
 ---
 
