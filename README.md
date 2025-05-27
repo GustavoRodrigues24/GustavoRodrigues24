@@ -3,7 +3,7 @@
 ###
 
 <!-- Gráfico de linguagens personalizado (mostrando apenas JavaScript, SQL, HTML e CSS) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgontijo&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigues24&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
 
 
 ###
