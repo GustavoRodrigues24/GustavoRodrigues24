@@ -38,9 +38,12 @@ Sou um QA focado em garantir que produtos digitais entreguem valor com qualidade
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavorodriguesgargalac/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <button style="font-size: 18px; padding: 12px 30px; background-color: #0077B5; color: white; border: none; border-radius: 6px; cursor: pointer;">
+      👉 Conecte-se comigo no LinkedIn
+    </button>
   </a>
 </div>
+
 
 ---
 
