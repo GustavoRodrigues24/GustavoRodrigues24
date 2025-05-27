@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Junior Gontijo and I'm a QA Engineer, from SouJr</h2>
+<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm a QA Engineer</h2>
 
 ###
 
