@@ -3,7 +3,8 @@ GustavoRodrigues24<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm
 ###
 
 <!-- Gráfico de linguagens personalizado (JavaScript, SQL, HTML, CSS) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriguesgargalac&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigues24&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
+
 
 ###
 
@@ -24,7 +25,7 @@ GustavoRodrigues24<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30" alt="Postman logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/logo/cypress-logo-dark.png" height="30" alt="Cypress logo" />
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/icon/cypress-icon.png" height="30" alt="Cypress logo" />
 </div>
 
 ###
