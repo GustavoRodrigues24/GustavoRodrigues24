@@ -25,7 +25,7 @@ GustavoRodrigues24<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30" alt="Postman logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/icon/cypress-icon.png" height="30" alt="Cypress logo" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" alt="Cypress badge" />
 </div>
 
 ###
