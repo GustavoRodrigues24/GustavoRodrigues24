@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/us_chrono">
+  <a href="https://open.spotify.com/user/gustavo15gargalac-br">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=us_chrono&count=5" alt="Spotify recently played"  />
   </a>
 </div>
