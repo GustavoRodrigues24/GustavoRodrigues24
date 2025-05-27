@@ -1,47 +1,57 @@
-GustavoRodrigues24<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm a QA Engineer</h2>
+<h1 align="center">👋 Olá, eu sou o Gustavo Rodrigues</h1>
+<h3 align="center">Quality Assurance Engineer | Apaixonado por entregar qualidade 🚀</h3>
 
-###
+---
 
-<!-- Gráfico de linguagens personalizado (JavaScript, SQL, HTML, CSS) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigues24&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
+🧠 **Sobre mim**
 
+Sou um QA focado em garantir que produtos digitais entreguem valor com qualidade e eficiência. Com conhecimentos em testes manuais e automatizados, utilizo ferramentas como **Cypress**, **Postman** e **Docker** para validar funcionalidades e APIs, sempre com olhar crítico e foco em melhoria contínua.
 
-###
+🎯 Atualmente, estou aprimorando minhas habilidades em:
+- Testes de performance e segurança
+- Integração contínua (CI/CD)
+- Melhores práticas de automação de testes
 
-<!-- Tecnologias -->
-<div align="left">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
+---
 
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" alt="Cypress badge" />
+📊 **Linguagens mais usadas**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigues24&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c" height="160" />
 </div>
 
-###
+---
 
-<!-- LinkedIn -->
-<div align="left">
+🛠️ **Tecnologias e Ferramentas**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" alt="Cypress" />
+</div>
+
+---
+
+📫 **Onde me encontrar**
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavorodriguesgargalac/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<!-- Spotify -->
+🎵 **O que estou ouvindo agora**
+
 <div align="center">
   <a href="https://open.spotify.com/user/gustavo15gargalac-br">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gustavo15gargalac-br" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gustavo15gargalac-br" alt="Spotify Recently Played" />
   </a>
 </div>
+
+---
+
+⚡ *"Testar não é apenas encontrar bugs, é garantir que o usuário tenha uma ótima experiência."*
