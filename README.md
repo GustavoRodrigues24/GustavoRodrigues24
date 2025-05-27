@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm a QA Engineer</h2>
+GustavoRodrigues24<h2 align="left">Hi 👋! My name is Gustavo Rodrigues and I'm a QA Engineer</h2>
 
 ###
 
-<!-- Gráfico de linguagens personalizado (mostrando apenas JavaScript, SQL, HTML e CSS) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigues24&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
-
+<!-- Gráfico de linguagens personalizado (JavaScript, SQL, HTML, CSS) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriguesgargalac&layout=compact&theme=dracula&hide_border=false&langs_count=4&hide=python,typescript,java,c++,c,php,ruby,go,kotlin,swift,objective-c,rust,dart,scala,haskell,perl,elixir,erlang,assembly,batch,powershell,groovy,vue,react,tsx,ts" height="150" alt="languages graph" />
 
 ###
 
 <!-- Tecnologias -->
 <div align="left">
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
@@ -17,6 +17,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/logo/cypress-logo-dark.png" height="30" alt="Cypress logo" />
 </div>
 
 ###
